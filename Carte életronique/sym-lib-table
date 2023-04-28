@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Connector_Generic)(type Legacy)(uri D:/Tools/Kicad/Library/Connector_Generic/Connector_Generic.lib)(options "")(descr ""))
+  (lib (name Connector)(type Legacy)(uri D:/Tools/Kicad/Library/Connector.lib)(options "")(descr ""))
+  (lib (name SymbGamelGe2)(type Legacy)(uri ${KIPRJMOD}/library/LibGamelGe2/SymbGamelGe2.lib)(options "")(descr ""))
+  (lib (name Projet-Personel-rescue)(type Legacy)(uri "${KIPRJMOD}/Projet Personel-rescue.lib")(options "")(descr ""))
+)
